@@ -1,6 +1,8 @@
 # ROSE WINDOW
 ROSE WINDOW is a Horn Torus color space combining developmental and alchemical dynamics in one 3D domain. These two systems are interpreted as two dimensions of the Earth: Gaia and Sophia. The ROSE WINDOW is a means of mapping the Heros Journey of the Earth.
 
+![Developmental and Alchemical Plane Diagrams](/images/uv.png)
+
 ## Developmental Plane (U, Gaia)
 The developmental plane, U, is both perceptual and infinite. It is based on the opponent model of human vision, making a 2D chroma plane out of two orthogonal axes that range from Red to Green and Yellow to Blue.
 
